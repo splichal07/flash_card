@@ -1,7 +1,7 @@
 :root{
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --text-color: #ff2929;
+    --card-front-color: #e7c736;
+    --card-back-color: #4953d6;
 }
 
 
@@ -49,7 +49,8 @@ body{
 .cartao__conteudo p{
     margin-top: 1rem;
     padding: 2rem;
-    margin-top: 4rem;
+    margin-top: 5rem;
+    font-size: 1.4vw;
 }
  
 
@@ -73,11 +74,14 @@ body{
     position: absolute;
     height: 100%;
     width: 100%;
+    box-sizing: border-box;
 
 }
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
+    
+    border: 4px solid var(--card-back-color);
 }
 
 
@@ -95,3 +99,20 @@ footer p {
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
+
+@media (max-width: 560px) {
+    body {
+        background: #709ab6;
+
+    } 
+    .cartao{
+        flex: 1 0 calc(100% - 1rem);
+    }
+    .cartao__conteudo h3 {
+        font-size: 3vw;
+    }
+    .cartao__conteudo p {
+        font-size: 3.8vw;
+    }
+}
+

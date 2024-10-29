@@ -1,41 +1,41 @@
 criaCartao (
-    'Suco',
-    'O suco de vocês é natural?',
-    'Sim.'
+    'Casablanca',
+    'Que música Rick proibiu no bar?',
+    '"As Time Goes By"'
 
 )
 
 criaCartao (
-    'Suco',
-    'Vocês fazem entrega?',
-    'Sim.'
+    'Casablanca',
+    'Que frase icônica Rick diz para Ilsa no aeroporto? ',
+    '"Heres looking at you, Kid"'
 
 )
 
 criaCartao (
-    'Suco',
-    'Qual o melhor suco de Londrina?',
-    'O do Point do Suco.'
+    'Casablanca',
+    'Em que ano o filme foi lançado?',
+    '1942'
 
 )
 
 criaCartao (
-    'Suco',
-    'O quais sabores vocẽs tem?',
-    'Temos laranja, maracujá, uva, goiaba, laranja com morango.'
+    'Casablanca',
+    'Qual o nome do pianista?',
+    'Sam'
 
 )
 
 criaCartao (
-    'Suco',
-    'Quanto custa o litro?',
-    '1l 13,00 - 2l 24,00 - 3l 33,00 - 5l 54,00.'
+    'Casablanca',
+    'Onde Rick e Ilsa se conheceram?',
+    'Paris'
 
 )
 
 criaCartao (
-    'Suco',
-    'Vocês vendem outras coisas?',
-    'Sim.'
+    'Casablanca',
+    'Como Rick responde quando Ilsa pergunta: “Mas e nós?”',
+    '"Sempre teremos Paris"'
 
 )
